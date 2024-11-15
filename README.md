@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninsid711" alt="ninsid711" /></a> </p>
 
-- 🌱 I’m currently learning **GoFr, Golang, PosgreSQL, and some backend programming essestials, along with DSA theory.**
+- 🌱 I’m currently learning **Frontend Development, low level programming concepts, and Data Structures (The Hard Way).**
 
 - 📫 How to reach me **siddy0041@gmail.com**
 
