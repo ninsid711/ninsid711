@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **siddy0041@gmail.com**
 
-- ⚡ Fun fact **I use Arch btw**
+- ⚡ Fun fact **I like cats :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
