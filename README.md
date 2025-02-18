@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **siddy0041@gmail.com**
 
-- ⚡ Fun fact **I like cats :)**
+- ⚡ Fun fact **I play bass guitar in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
