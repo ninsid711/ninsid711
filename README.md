@@ -1,9 +1,9 @@
 <h1 align="center">Sup, I'm Siddhartha</h1>
 
 
-- 🌱 I’m currently learning **Frontend Development, low level programming concepts, and Data Structures (The Hard Way).**
+- 🌱 I’m currently learning **Compiler Design, Cloud Computing Essentials, and Deep Learning.**
 
-- 📫 How to reach me **siddy0041@gmail.com**
+- 📫 How to reach me **siddhartharaoworks@gmail.com**
 
 - ⚡ Fun fact **I play bass guitar in my free time.**
 
