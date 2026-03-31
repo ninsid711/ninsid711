@@ -1,7 +1,5 @@
 <h1 align="center">Sup, I'm Siddhartha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninsid711&label=Profile%20views&color=0e75b6&style=flat" alt="ninsid711" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninsid711" alt="ninsid711" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend Development, low level programming concepts, and Data Structures (The Hard Way).**
 
